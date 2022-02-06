@@ -1,2 +1,2 @@
 # forAndroid
-This is for my blog example.
+This is for integrated example.
